@@ -18,8 +18,8 @@ the loop ends.
 ```
 /*
 Program to evaluate the given prefix expression
-Developed by: KANISHKAR M
-RegisterNumber:  212222240044
+Developed by: DINESH KUMAR R
+RegisterNumber:  212222110010
 */
 #include<stdio.h> 
 #include<string.h> 
